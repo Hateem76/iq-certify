@@ -23,6 +23,7 @@ use Carbon\Carbon;
 use Illuminate\Support\Facades\Http;
 
 use App\Jobs\GenerateAndSaveReportJob;
+use App\Jobs\SendMakePaymentEmail;
 
 class QuizAppContoller extends Controller
 {
@@ -73,8 +74,12 @@ class QuizAppContoller extends Controller
     }
 
 
-    public function Additional(Request $request, $code=null,$uniquekey)
+    public function Additional(Request $request, $uniquekey)
     {
+
+
+
+        $code=null;
 
         $apiKey = 'FydycJGauwX1iKJ'; // Replace with your actual API key
         $ip = $request->getClientIp(); // Get the client's IP address
@@ -96,7 +101,7 @@ class QuizAppContoller extends Controller
         $data['countries'] =Country::get();
 
 
-        Session::put('lang',$code);
+        // Session::put('lang',$code);
 
         $results = QuizResult::whereUniqueKey($uniquekey)->first();
         if (!$results) {
@@ -108,9 +113,9 @@ class QuizAppContoller extends Controller
 
     }
 
-    public function QuizResult($code=null,$uniquekey)
+    public function QuizResult($uniquekey)
     {
-        Session::put('lang',$code);
+        // Session::put('lang',$code);
 
         $results = QuizResult::whereUniqueKey($uniquekey)->where('user_id',null)->first();
         if (!$results) {
@@ -181,11 +186,13 @@ if (file_exists($pdfPath)) {
             ];
 //            commmit for now
             if($result->email_sent_at == null){
-                $result->update(['email_sent_at'=>$request->email]);
-                Mail::send('email.unique_link',$data ,  function ($message) use ($data,$request) {
-                    $message->to($request->email)
-                        ->subject('Get your IQ score and certificate');
-                });
+
+                SendMakePaymentEmail::dispatch($data)->delay(now()->addMinutes(2));
+                // $result->update(['email_sent_at'=>$request->email]);
+                // Mail::send('email.unique_link',$data ,  function ($message) use ($data,$request) {
+                //     $message->to($request->email)
+                //         ->subject('Get your IQ score and certificate');
+                // });
             }
 
             return redirect($code.'/result'.'/'.$result->unique_key)->with('sucess','Your Quiz Submitted');

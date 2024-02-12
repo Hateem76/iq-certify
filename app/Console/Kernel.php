@@ -17,19 +17,21 @@ class Kernel extends ConsoleKernel
     {
         
          // Schedule the task to run daily at midnight
-    $schedule->call(function () {
-        // Delete PDF files older than 7 days
-        $pdfPath = storage_path('app/pdf_reports/');
-        $sevenDaysAgo = now()->subDays(7);
-        $filesToDelete = \File::glob($pdfPath . '*.pdf');
+        $schedule->call(function () {
+            // Delete PDF files older than 7 days
+            $pdfPath = storage_path('app/pdf_reports/');
+            $sevenDaysAgo = now()->subDays(7);
+            $filesToDelete = \File::glob($pdfPath . '*.pdf');
 
-        foreach ($filesToDelete as $file) {
-            if (\File::lastModified($file) < $sevenDaysAgo->timestamp) {
-                \File::delete($file);
+            foreach ($filesToDelete as $file) {
+                if (\File::lastModified($file) < $sevenDaysAgo->timestamp) {
+                    \File::delete($file);
+                }
             }
-        }
-    })->dailyAt('00:00');
+        })->dailyAt('00:00');
         // $schedule->command('inspire')->hourly();
+
+        $schedule->command('queue:work --once')->everyMinute();
     }
 
     /**
