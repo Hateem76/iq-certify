@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 134.00 134.00"
+   id="svg2"
+   sodipodi:docname="c.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.0746269"
+     inkscape:cx="67.08231"
+     inkscape:cy="67"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1913"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#004124"
+     d="   M 64.30 0.00   L 70.06 0.00   C 105.42 2.70 132.07 28.87 134.00 64.33   L 134.00 69.57   C 131.93 104.80 105.42 131.67 70.17 134.00   L 63.69 134.00   C 28.77 131.33 2.40 105.42 0.00 70.42   L 0.00 63.47   C 2.44 28.29 29.22 2.31 64.30 0.00   Z   M 128.00 67.00   A 61.00 61.00 0.0 0 0 67.00 6.00   A 61.00 61.00 0.0 0 0 6.00 67.00   A 61.00 61.00 0.0 0 0 67.00 128.00   A 61.00 61.00 0.0 0 0 128.00 67.00   Z"
+     id="path1"
+     style="fill:#00a86b;fill-opacity:1" />
+  <path
+     fill="#004124"
+     d="   M 73.07 52.50   L 53.62 52.50   Q 53.00 52.50 53.00 51.87   L 53.00 46.25   Q 53.00 45.50 53.75 45.50   L 81.29 45.50   Q 81.96 45.50 81.98 46.17   C 82.06 48.73 82.28 50.98 81.24 53.42   Q 73.86 70.76 66.34 88.27   A 1.20 1.19 -78.4 0 1 65.24 89.00   L 58.28 89.00   Q 57.53 89.00 57.83 88.32   L 73.42 53.04   Q 73.66 52.50 73.07 52.50   Z"
+     id="path2"
+     style="fill:#333333;fill-opacity:1" />
+</svg>

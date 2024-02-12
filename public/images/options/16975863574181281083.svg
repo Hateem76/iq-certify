@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 1423.00 1422.00"
+   id="svg3"
+   sodipodi:docname="c.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57243319"
+     inkscape:cx="711.87346"
+     inkscape:cy="711"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="#303030"
+     d="   M 1423.00 0.75   L 1423.00 1422.00   L 1.94 1422.00   Q 0.75 1421.48 0.75 1420.75   Q 0.75 711.91 0.75 3.87   A 3.12 3.12 0.0 0 1 3.87 0.75   L 1423.00 0.75   Z   M 1388.50 37.58   A 2.08 2.08 0.0 0 0 1386.42 35.50   L 38.58 35.50   A 2.08 2.08 0.0 0 0 36.50 37.58   L 36.50 1385.16   A 2.08 2.08 0.0 0 0 38.58 1387.24   L 1386.42 1387.24   A 2.08 2.08 0.0 0 0 1388.50 1385.16   L 1388.50 37.58   Z"
+     id="path1" />
+  <path
+     fill="#2c4a3e"
+     d="   M 1228.61 1160.17   L 194.90 1162.53   A 2.11 2.11 0.0 0 1 193.07 1159.37   L 708.84 263.53   A 2.11 2.11 0.0 0 1 712.50 263.52   L 1230.43 1157.00   A 2.11 2.11 0.0 0 1 1228.61 1160.17   Z   M 741.94 1126.56   C 744.06 1126.56 745.71 1125.78 747.46 1125.78   Q 958.20 1125.72 1168.36 1125.76   A 2.14 2.14 0.0 0 0 1170.21 1122.55   L 712.71 334.04   A 2.56 2.56 0.0 0 0 708.27 334.05   L 253.89 1124.43   A 1.51 1.51 0.0 0 0 255.20 1126.69   Q 498.36 1126.94 741.94 1126.56   Z"
+     id="path2"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     fill="#00a86b"
+     d="   M 1336.40 902.57   L 1125.33 900.67   A 2.28 2.28 0.0 0 1 1123.37 897.25   L 1229.18 714.60   A 2.28 2.28 0.0 0 1 1233.13 714.62   L 1338.40 899.16   A 2.28 2.28 0.0 0 1 1336.40 902.57   Z"
+     id="path3"
+     style="fill:#00a86b;fill-opacity:1" />
+</svg>

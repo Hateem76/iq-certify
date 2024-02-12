@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 134.00 134.00"
+   id="svg3"
+   sodipodi:docname="b.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.0746269"
+     inkscape:cx="67.08231"
+     inkscape:cy="67"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1913"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="#004124"
+     d="   M 64.30 0.00   L 70.06 0.00   C 105.42 2.70 132.07 28.87 134.00 64.33   L 134.00 69.58   C 131.80 104.82 105.49 131.71 70.17 134.00   L 63.68 134.00   C 28.52 130.67 2.54 106.06 0.00 70.41   L 0.00 63.47   C 2.44 28.29 29.22 2.31 64.30 0.00   Z   M 128.00 67.00   A 61.00 61.00 0.0 0 0 67.00 6.00   A 61.00 61.00 0.0 0 0 6.00 67.00   A 61.00 61.00 0.0 0 0 67.00 128.00   A 61.00 61.00 0.0 0 0 128.00 67.00   Z"
+     id="path1"
+     style="fill:#00a86b;fill-opacity:1" />
+  <path
+     fill="#004124"
+     d="   M 45.49 81.50   L 61.63 81.50   Q 62.25 81.50 62.25 82.13   L 62.25 87.88   Q 62.25 88.50 61.63 88.50   L 33.50 88.50   Q 32.75 88.50 32.75 87.75   L 32.75 82.52   A 1.01 1.00 70.7 0 1 33.12 81.74   C 39.70 76.42 56.19 64.42 52.49 54.72   C 50.23 48.79 40.85 51.10 41.01 57.94   A 1.04 1.03 -0.8 0 1 39.97 59.00   L 33.97 59.00   Q 32.49 59.00 32.67 57.53   Q 33.93 47.29 43.23 44.77   C 50.49 42.79 58.68 45.79 60.77 53.50   C 63.73 64.44 53.47 74.80 45.22 80.68   A 0.46 0.45 27.0 0 0 45.49 81.50   Z"
+     id="path2"
+     style="fill:#333333;fill-opacity:1" />
+  <path
+     fill="#004124"
+     d="   M 97.25 80.96   L 97.25 88.34   A 0.65 0.65 0.0 0 1 96.60 88.99   L 89.25 89.00   Q 88.75 89.00 88.75 88.50   L 88.75 81.00   Q 88.75 80.50 88.25 80.50   L 68.47 80.50   Q 67.83 80.50 67.79 79.87   C 67.58 76.83 67.26 74.63 69.12 71.97   Q 78.17 59.10 87.15 46.20   A 1.05 1.04 17.2 0 1 88.01 45.75   L 96.50 45.75   Q 97.25 45.75 97.25 46.50   L 97.25 72.63   Q 97.25 73.25 97.88 73.25   L 102.00 73.25   Q 102.50 73.25 102.50 73.75   L 102.50 80.03   A 0.52 0.52 0.0 0 1 101.97 80.55   L 97.84 80.39   A 0.57 0.57 0.0 0 0 97.25 80.96   Z   M 89.25 56.03   A 0.33 0.33 0.0 0 0 88.65 55.85   L 77.29 72.74   A 0.33 0.33 0.0 0 0 77.56 73.25   L 88.92 73.25   A 0.33 0.33 0.0 0 0 89.25 72.92   L 89.25 56.03   Z"
+     id="path3"
+     style="fill:#333333;fill-opacity:1" />
+</svg>

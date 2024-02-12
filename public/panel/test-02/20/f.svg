@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 1423.00 1422.00"
+   id="svg4"
+   sodipodi:docname="f.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57243319"
+     inkscape:cx="711.87346"
+     inkscape:cy="711"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     stroke="#003d24"
+     stroke-width="2.00"
+     fill="none"
+     stroke-linecap="butt"
+     vector-effect="non-scaling-stroke"
+     d="   M 1169.61 1129.12   A 1.49 1.49 0.0 0 0 1170.90 1126.88   L 712.00 335.25   A 1.49 1.49 0.0 0 0 709.42 335.26   L 252.92 1128.70   A 1.49 1.49 0.0 0 0 254.21 1130.94   L 1169.61 1129.12"
+     id="path1" />
+  <path
+     fill="#000000"
+     d="   M 1423.00 0.75   L 1423.00 1422.00   L 1.94 1422.00   Q 0.75 1421.48 0.75 1420.75   Q 0.75 711.91 0.75 3.84   A 3.09 3.09 0.0 0 1 3.84 0.75   L 1423.00 0.75   Z   M 1388.50 37.58   A 2.08 2.08 0.0 0 0 1386.42 35.50   L 38.58 35.50   A 2.08 2.08 0.0 0 0 36.50 37.58   L 36.50 1385.16   A 2.08 2.08 0.0 0 0 38.58 1387.24   L 1386.42 1387.24   A 2.08 2.08 0.0 0 0 1388.50 1385.16   L 1388.50 37.58   Z"
+     id="path2" />
+  <path
+     fill="#000000"
+     d="   M 1228.86 1163.50   L 194.92 1165.66   A 1.90 1.90 0.0 0 1 193.27 1162.82   L 708.99 266.68   A 1.90 1.90 0.0 0 1 712.28 266.67   L 1230.50 1160.65   A 1.90 1.90 0.0 0 1 1228.86 1163.50   Z   M 1169.61 1129.12   A 1.49 1.49 0.0 0 0 1170.90 1126.88   L 712.00 335.25   A 1.49 1.49 0.0 0 0 709.42 335.26   L 252.92 1128.70   A 1.49 1.49 0.0 0 0 254.21 1130.94   L 1169.61 1129.12   Z"
+     id="path3" />
+  <path
+     fill="#00a86b"
+     d="   M 1169.61 1129.12   L 254.21 1130.94   A 1.49 1.49 0.0 0 1 252.92 1128.70   L 709.42 335.26   A 1.49 1.49 0.0 0 1 712.00 335.25   L 1170.90 1126.88   A 1.49 1.49 0.0 0 1 1169.61 1129.12   Z"
+     id="path4"
+     style="fill:#00a86b;fill-opacity:1" />
+</svg>

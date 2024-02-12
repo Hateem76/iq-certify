@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 134.00 134.00"
+   id="svg2"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.0746269"
+     inkscape:cx="67.08231"
+     inkscape:cy="67"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1913"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#004124"
+     d="   M 64.30 0.00   L 70.06 0.00   C 105.42 2.70 132.07 28.87 134.00 64.33   L 134.00 69.56   C 132.06 104.83 105.36 131.56 70.18 134.00   L 63.69 134.00   C 28.77 131.33 2.40 105.42 0.00 70.42   L 0.00 63.47   C 2.44 28.29 29.22 2.31 64.30 0.00   Z   M 128.00 67.00   A 61.00 61.00 0.0 0 0 67.00 6.00   A 61.00 61.00 0.0 0 0 6.00 67.00   A 61.00 61.00 0.0 0 0 67.00 128.00   A 61.00 61.00 0.0 0 0 128.00 67.00   Z"
+     id="path1"
+     style="fill:#00a86b;fill-opacity:1" />
+  <path
+     fill="#004124"
+     d="   M 57.64 65.33   C 52.72 62.16 51.16 56.54 53.67 51.32   C 57.76 42.78 73.22 42.30 79.11 48.80   C 83.92 54.12 82.60 61.48 76.74 65.51   Q 76.20 65.89 76.78 66.21   Q 82.12 69.14 82.94 74.23   C 85.91 92.59 55.52 95.53 51.90 79.70   Q 49.94 71.11 57.65 66.09   Q 58.24 65.71 57.64 65.33   Z   M 73.9037 56.9899   A 6.65 6.17 -2.5 0 0 66.9909 51.1159   A 6.65 6.17 -2.5 0 0 60.6163 57.5701   A 6.65 6.17 -2.5 0 0 67.5291 63.4441   A 6.65 6.17 -2.5 0 0 73.9037 56.9899   Z   M 74.9599 76.2506   A 7.75 6.84 0.3 0 0 67.2458 69.3701   A 7.75 6.84 0.3 0 0 59.4601 76.1694   A 7.75 6.84 0.3 0 0 67.1742 83.0499   A 7.75 6.84 0.3 0 0 74.9599 76.2506   Z"
+     id="path2"
+     style="fill:#333333;fill-opacity:1" />
+</svg>

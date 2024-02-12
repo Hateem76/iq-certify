@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.00 0.00 1423.00 1423.00"
+   id="svg3"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57203092"
+     inkscape:cx="710.62592"
+     inkscape:cy="711.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     stroke="#003d24"
+     stroke-width="2.00"
+     fill="none"
+     stroke-linecap="butt"
+     vector-effect="non-scaling-stroke"
+     d="   M 1128.15 711.68   A 415.98 415.98 0.0 0 0 712.17 295.70   A 415.98 415.98 0.0 0 0 296.19 711.68   A 415.98 415.98 0.0 0 0 712.17 1127.66   A 415.98 415.98 0.0 0 0 1128.15 711.68"
+     id="path1" />
+  <path
+     fill="#000000"
+     d="   M 1423.00 1.12   L 1423.00 1422.75   L 3.77 1422.75   A 3.02 3.02 0.0 0 1 0.75 1419.73   L 0.75 3.77   A 3.02 3.02 0.0 0 1 3.77 0.75   Q 650.62 0.75 1298.00 0.75   Q 1298.29 0.75 1298.45 0.86   Q 1298.63 1.00 1298.86 1.00   L 1423.00 1.12   Z   M 1388.50 37.28   A 1.78 1.78 0.0 0 0 1386.72 35.50   L 38.28 35.50   A 1.78 1.78 0.0 0 0 36.50 37.28   L 36.50 1385.46   A 1.78 1.78 0.0 0 0 38.28 1387.24   L 1386.72 1387.24   A 1.78 1.78 0.0 0 0 1388.50 1385.46   L 1388.50 37.28   Z"
+     id="path2" />
+  <path
+     fill="#000000"
+     d="   M 1162.84 711.72   A 450.71 450.71 0.0 0 1 712.13 1162.43   A 450.71 450.71 0.0 0 1 261.42 711.72   A 450.71 450.71 0.0 0 1 712.13 261.01   A 450.71 450.71 0.0 0 1 1162.84 711.72   Z   M 1128.15 711.68   A 415.98 415.98 0.0 0 0 712.17 295.70   A 415.98 415.98 0.0 0 0 296.19 711.68   A 415.98 415.98 0.0 0 0 712.17 1127.66   A 415.98 415.98 0.0 0 0 1128.15 711.68   Z"
+     id="path3" />
+  <circle
+     fill="#00a86b"
+     cx="712.17"
+     cy="711.68"
+     r="415.98"
+     id="circle3"
+     style="fill:#00a86b;fill-opacity:1" />
+</svg>

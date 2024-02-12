@@ -1,0 +1,23 @@
+{
+    "customfont": {
+        "normal": "customfont_normal_ef0a86e3fb4c7251b0ecb0ba1c3676de"
+    },
+    "croissant one": {
+        "normal": "croissant_one_normal_835d5784bf80eee15ed920228fa400b1"
+    },
+    "unb_pro_regular": {
+        "normal": "unb_pro_regular_normal_b058d3d695e0235f8ca51a972491e23c"
+    },
+    "unb_pro_bold": {
+        "normal": "unb_pro_bold_normal_521157002b1547192333139dcb0dfcd8"
+    },
+    "worksans": {
+        "normal": "worksans_normal_12d920acd3813055282d476b207dc1f0"
+    },
+    "poppins-bold": {
+        "normal": "poppins_bold_normal_f5f7b99a1ae84189d99461c110f8ed2a"
+    },
+    "poppins-regular": {
+        "normal": "poppins_regular_normal_2c982fc85fae4564a70bca9b406f3008"
+    }
+}
