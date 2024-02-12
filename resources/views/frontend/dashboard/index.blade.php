@@ -81,9 +81,9 @@
                     <button class="nav-link"  onclick="ajaxview('results', 'results',false,event)"   type="button"><img src="{{asset('panel/img/icons/clipboard.svg')}}" class="img-fluid dashboard-nav-icon" alt="History" />{{getLangValue('dashboard.header_results')}}</button>
                     <button class="nav-link"  onclick="ajaxview('rankings', 'rankings',false,event)"  type="button"><img src="{{asset('panel/img/icons/ranking.svg')}}" class="img-fluid dashboard-nav-icon" alt="Card" />{{getLangValue('dashboard.header_ranking')}}</button>
                     <button class="nav-link" onclick="ajaxview('settings', 'settings',false,event)"  type="button"><img src="{{asset('panel/img/icons/settings.svg')}}" class="img-fluid dashboard-nav-icon" alt="Settings" />{{getLangValue('dashboard.header_settings')}}</button>
-                    <form class="m-0" method="POST" action="{{ route('logout') }}">
+                    <form class="m-0" method="POST" action="{{ route('logout') }}" style="cursor: pointer">
                         @csrf
-                        <a class="nav-link" id="v-pills-logout-tab"   :href="route('logout')"
+                        <a class="nav-link" id="v-pills-logout-tab"
                            onclick="event.preventDefault();
                                                 this.closest('form').submit();">
                             <img src="{{asset('panel/img/icons/logout-2.svg')}}" class="img-fluid dashboard-nav-icon" alt="Logout" />

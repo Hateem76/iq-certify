@@ -19,14 +19,14 @@
             <div>
                 <x-label for="email" :value="__('Email')" />
 
-                <x-input id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email', $request->email)" required autofocus />
+                <x-input id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email', $request->email)" required readonly />
             </div>
 
             <!-- Password -->
             <div class="mt-4">
                 <x-label for="password" :value="__('Password')" />
 
-                <x-input id="password" class="block mt-1 w-full" type="password" name="password" required />
+                <x-input id="password" class="block mt-1 w-full" type="password" name="password" required autofocus />
             </div>
 
             <!-- Confirm Password -->

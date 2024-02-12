@@ -6,8 +6,10 @@ use App\Http\Controllers\Controller;
 use App\Models\Payments;
 use App\Models\Quiz;
 use App\Models\QuizResult;
+use App\Models\User;
 use App\Models\UserDashboard;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use Stripe\{
     Stripe,
     Customer,
@@ -24,8 +26,11 @@ class UserDashboardController extends Controller
      */
     public function index()
     {
+        // dd(Auth::user()->email);
 
-
+        // $user = User::find(83);
+        // Auth::login($user);
+        // return redirect('/');
         return view('frontend.dashboard.index');
         //
     }
@@ -42,7 +47,9 @@ class UserDashboardController extends Controller
     }
     public function rankings()
     {
-        $quiz = QuizResult::where('user_id','!=',null)->with('quiz')->get();
+        $quiz = QuizResult::whereHas('user', function($query){
+            $query->where('country', Auth::user()->country);
+        })->with('quiz')->limit(18)->get();
         return view('frontend.dashboard.rankings',compact('quiz'));
         //
     }
