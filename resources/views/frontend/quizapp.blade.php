@@ -17,6 +17,9 @@ $alphabets = [
                 <div class="qhw-left">
                     <h2 class="quiz-test-name">{{ App\Helpers\Translations::Translations($quiz['title'],'Quiz Page')}}</h2>
                 </div>
+                <div class="qhw-center">
+                    <h2 class="quiz-test-name"> {{ App\Helpers\Translations::Translations('Question','Quiz Page')}} <span id="question-number">01</span>/{{ count($quiz['questions']) }}</h2>
+                </div>
                 <div class="qhw-right">
                     <img src="{{asset('panel/img/icons/history-2.svg')}}" class="img-fluid quiz-timer-icon" alt="Time Left:">
                     <span id="quiz-timer">{{$quiz['time_duration']}}:00</span>

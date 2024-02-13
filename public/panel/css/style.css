@@ -437,6 +437,12 @@ header {
 	margin-bottom: 30px;
 }
 
+.qhw-center {
+	display: flex;
+	/* align-items: center; */
+	margin-left: 30px;
+}
+
 .quiz-wrapper {
 	display: flex;
 	flex-wrap: wrap;
