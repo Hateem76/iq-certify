@@ -424,8 +424,8 @@ $(document).ready(function() {
 			slidesToShow: 1,
 			slidesToScroll: 1,
 			arrows: true,
-			prevArrow:"<button type='button' class='slick-prev slick-btn pull-left'><img src='img/icons/square-alt-arrow-left.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>",
-			nextArrow:"<button type='button' class='slick-next slick-btn pull-right'><img src='img/icons/square-alt-arrow-right.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>"
+			prevArrow:"<button type='button' class='slick-prev slick-btn pull-left'><img src='panel/img/icons/square-alt-arrow-left.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>",
+			nextArrow:"<button type='button' class='slick-next slick-btn pull-right'><img src='panel/img/icons/square-alt-arrow-right.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>"
 		});
 	}
 
@@ -586,8 +586,8 @@ function initializeSlick() {
 		slidesToShow: 1,
 		slidesToScroll: 1,
 		arrows: true,
-		prevArrow: "<button type='button' class='slick-prev slick-btn pull-left'><img src='img/icons/square-alt-arrow-left.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>",
-		nextArrow: "<button type='button' class='slick-next slick-btn pull-right'><img src='img/icons/square-alt-arrow-right.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>"
+		prevArrow: "<button type='button' class='slick-prev slick-btn pull-left'><img src='panel/img/icons/square-alt-arrow-left.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>",
+		nextArrow: "<button type='button' class='slick-next slick-btn pull-right'><img src='panel/img/icons/square-alt-arrow-right.svg' class='img-fluid svg-icon icon-green slider-icon' alt='Arrow Left' /></button>"
 	});
 }
 
